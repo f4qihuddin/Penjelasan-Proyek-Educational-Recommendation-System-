@@ -8,6 +8,8 @@ Setelah mendapatkan informasi dari profil pengguna dan katalog pembelajaran yang
 
 Sistem rekomendasi belajar ini sangat berguna di zaman sekarang yang mana hampir semuanya dapat diakses secara online. Sistem ini dapat membantu para mahasiswa agar dapat mengenali diri mereka lebih dalam mengenai kemampuan mereka dan cara belajar yang cocok untuk mereka secara otomatis.
 
+link proyek : https://github.com/SrmHitter9062/Educational-filtering-System-University-recommendation-system-
+
 
 
 
